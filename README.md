@@ -11,3 +11,6 @@ It can be called from a MapReduce stream job, or for testing purposes via comman
 
 	- cat *.txt | ./mapper | sort | ./reducer
 
+## Example Data
+
+https://www.dropbox.com/sh/geizvpqqz2aiwxv/AADMCmnpeBRBGTzGXpAVB4Nla?dl=0
